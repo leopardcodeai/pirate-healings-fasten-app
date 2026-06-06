@@ -1,5 +1,7 @@
 # FastFlow Analytics 🧬
 
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE) [![AI Built](https://img.shields.io/badge/vibecoded-AI-purple)](https://github.com/leopardcodeai) [![Node](https://img.shields.io/badge/Node-JS%2FTS-green)](https://nodejs.org)
+
 > A premium, modern Metabolic & Fasting Analytics Dashboard built with React, Vite, TailwindCSS v4, and Recharts, designed following Apple's sleek hardware and software design language.
 
 ![FastFlow Analytics Dashboard Mockup](./public/preview.png)
