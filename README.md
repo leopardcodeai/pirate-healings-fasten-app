@@ -1,4 +1,4 @@
-# FastFlow Analytics 🧬
+# pirate-healings-fasten-app 🧬
 
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE) [![AI Built](https://img.shields.io/badge/vibecoded-AI-purple)](https://github.com/leopardcodeai) [![Node](https://img.shields.io/badge/Node-JS%2FTS-green)](https://nodejs.org)
 
@@ -87,8 +87,8 @@ Make sure you have Node.js (v18+) installed.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/leopardcodeai/fastenapp.git
-   cd fastenapp
+   git clone https://github.com/leopardcodeai/pirate-healings-fasten-app.git
+   cd pirate-healings-fasten-app
    ```
 2. Install dependencies:
    ```bash
