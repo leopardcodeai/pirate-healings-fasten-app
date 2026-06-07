@@ -24,3 +24,21 @@ dist-ssr
 *.sw?
 .vercel
 .superpowers
+
+# AI Agents & Environment Configurations
+.agents/
+.claude/
+.gemini/
+.aionrs/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.vscode/
+.venv/
+venv/
+.python-version
+.eslintcache
+.mypy_cache/
+.pytest_cache/
